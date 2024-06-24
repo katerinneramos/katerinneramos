@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 I'm a Data Engineer based in ✨ _Argentina_ ✨ 
-
-Here are some ideas to get you started:
-
+:construction: Proyecto en construcción :construction:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: ...
 
-:construction: Proyecto en construcción :construction:
